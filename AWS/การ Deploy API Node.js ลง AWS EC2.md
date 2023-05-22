@@ -2,6 +2,10 @@
 # 🍀23 Step Deploy API Node.js in AWS EC2
 การ Deploy API Node.js ลง AWS EC2
 
+ผู้เขียน: [Ford Tanya](https://github.com/ford-tanya)
+
+รุ่นพี่ผู้สอน: [Panwa Muangsong](https://github.com/panwazii)
+
 1.  เปิด Windows PowerShell แบบ Run as administrator  
 2. ```bash
 	Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*  
